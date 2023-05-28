@@ -1,2 +1,2 @@
 # muslce_meals
-Recipe Sharing
+Muscle Meals is an application for users to share high protein recipes.  
